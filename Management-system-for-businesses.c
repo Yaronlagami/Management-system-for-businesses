@@ -973,7 +973,7 @@ int main()
 					break;
 				}
 			}
-			//àéï ì÷åç
+			//Ã Ã©Ã¯ Ã¬Ã·Ã¥Ã§
 			else if (choice2 == 1)
 			{
 				Find_Customers2(HeadOfCustomers, name, choice);
@@ -1030,7 +1030,7 @@ int main()
 				}
 				break;
 			}
-			//éù ì÷åç
+			//Ã©Ã¹ Ã¬Ã·Ã¥Ã§
 		}
 			case 6:
 			{
@@ -1522,7 +1522,7 @@ int main()
 						break;
 					}
 				}
-				//àéï ì÷åç
+				//Ã Ã©Ã¯ Ã¬Ã·Ã¥Ã§
 				else if (choice2 == 1)
 				{
 					Find_Customers2(HeadOfCustomers, name, choice);
@@ -1579,7 +1579,7 @@ int main()
 					}
 					break;
 				}
-				//éù ì÷åç
+				//Ã©Ã¹ Ã¬Ã·Ã¥Ã§
 			}
 			case 6:
 			{
